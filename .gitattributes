@@ -1,0 +1,1 @@
+characteristics_anom.csv filter=lfs diff=lfs merge=lfs -text
